@@ -1,9 +1,80 @@
+# ===============================================
+# Konfigurační soubor pro projekt danielg.cz
+# ===============================================
+
 baseURL = "https://www.danielg.cz/"
 languageCode = "cs-cz"
-title = "DanielG | Umělecká tvorba"
+title = "DanielG. | Umělecká tvorba"
 theme = "PaperMod"
 
+# Povolení generování stránek pro taxonomie (Kategorie, Tagy)
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+  page = [ "HTML", "RSS" ]
+  section = [ "HTML", "RSS" ]
+  taxonomy = [ "HTML", "RSS" ]
+  term = [ "HTML", "RSS" ]
+
+# Nastavení hlavního menu webu
+[menu]
+  [[menu.main]]
+    identifier = "galerie"
+    name = "Galerie"
+    url = "/galerie/"
+    weight = 10
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 20
+  [[menu.main]]
+    identifier = "o-mne"
+    name = "O mně"
+    url = "/o-mne/"
+    weight = 30
+  [[menu.main]]
+    identifier = "manifest"
+    name = "Manifest"
+    url = "/manifest/"
+    weight = 40
+  [[menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 50
+
+# Hlavní parametry webu
 [params]
-  author = "Daniel G."
+  author = "DanielG."
   description = "Osobní portfolio a galerie umělecké tvorby."
-  # ... a další parametry podle vaší potřeby ...
+  defaultTheme = "auto"
+
+  # ----------------------------------------------------
+  # ZAPNUTÍ A NASTAVENÍ PROFILE MODE
+  # ----------------------------------------------------
+  [params.profileMode]
+    enabled = true # Tímto se zapne Profile Mode
+    title = "Jsem DanielG." # Text, který se zobrazí jako hlavní nadpis
+    subtitle = "Těžím data. Tvořím umění, které má hmotnost." # Podnadpis pod jménem
+    # imageUrl = "/images/profilovka.jpg" # Cesta k vaší profilové fotce (nepovinné)
+    # imageWidth = 120 # Šířka fotky (nepovinné)
+    # imageHeight = 120 # Výška fotky (nepovinné)
+    
+    # Tlačítka, která se zobrazí pod jménem
+    [[params.profileMode.buttons]]
+      name = "Galerie"
+      url = "/galerie"
+
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/blog"
+
+  # ----------------------------------------------------
+  # IKONY SOCIÁLNÍCH SÍTÍ
+  # ----------------------------------------------------
+
+# Nastavení markup - povolení raw HTML
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

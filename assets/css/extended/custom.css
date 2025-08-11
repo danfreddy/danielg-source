@@ -1,0 +1,9 @@
+/* Změní výchozí šedé pozadí světlého režimu na čistě bílé */
+body[data-theme="light"] {
+    background: #ffffff;
+}
+
+/* Zacílí i na hlavní kontejner na domovské stránce a vnitřních stránkách */
+body[data-theme="light"] .main {
+    background: #ffffff;
+}

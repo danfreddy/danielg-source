@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DanielG. | Umělecká tvorba</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on DanielG. | Umělecká tvorba</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Mon, 11 Aug 2025 15:10:18 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nejsem Digitální Umělec</title>
+      <link>http://localhost:1313/blog/nejsem-digitalni-umelec/</link>
+      <pubDate>Mon, 11 Aug 2025 15:10:18 +0200</pubDate>
+      <guid>http://localhost:1313/blog/nejsem-digitalni-umelec/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Nikdy jsem nebyl jen jedna věc. V mládí to byl punk, psaní textů a modelování z hlíny. Profesně mě to ale vždy táhlo k systémům a struktuře.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vystudoval jsem knihovnictví, abych rozuměl uspořádání informací, a roky jsem se jako SEO specialista nořil do logiky algoritmů. Vždy ve mně existovaly dva světy: jeden syrový, kreativní a hmatatelný, a druhý abstraktní, logický a systémový.&lt;/p&gt;
+&lt;p&gt;Ten most mezi nimi jsem poprvé postavil v Praze, kde jsem založil svou první dílnu FutLab. Svět 3D tisku a laserů se tam potkal s ohněm bronzové pece a digitální návrh získal váhu skutečného kovu. Dnes, jako AI architekt, pracuji s tou nejvyšší formou digitální abstrakce.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/kontakt/</link>
+      <pubDate>Mon, 11 Aug 2025 14:16:28 +0200</pubDate>
+      <guid>http://localhost:1313/kontakt/</guid>
+      <description>&lt;h2 id=&#34;danielg&#34;&gt;DanielG.&lt;/h2&gt;
+&lt;p&gt;Aktuálně se nacházím v Kutné Hoře, kde tvořím i bydlím.&lt;/p&gt;
+&lt;p&gt;Kutná Hora,
+Czech Republic&lt;/p&gt;
+&lt;p&gt;E: &lt;a href=&#34;mailto:info@danielg.cz&#34;&gt;info@danielg.cz&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Mně</title>
+      <link>http://localhost:1313/o-mne/</link>
+      <pubDate>Mon, 11 Aug 2025 14:16:27 +0200</pubDate>
+      <guid>http://localhost:1313/o-mne/</guid>
+      <description>&lt;h2 id=&#34;danielg&#34;&gt;DanielG.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Věnuji se Algoritmické Archeologii. Tvořím hmotné artefakty z digitálních dat (Post-digitální umění).&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jsem tvůrce na pomezí dvou světů. Na jedné straně je to svět algoritmů, dat a kódu mé práce AI architekta. Na druhé straně je to svět mé dílny FutLab – svět tisku, žáru laseru a vůně čerstvých barev. Jmenuji se Daniel G. a mou posedlostí je dávat digitálním myšlenkám fyzické tělo.&lt;/p&gt;
+&lt;p&gt;Moje cesta k umění nevedla přes akademie a ateliéry. Vedla přes garáže, dílny a tisíce hodin samostudia. Vše, co dnes umím, jsem se naučil sám, poháněn vnitřní potřebou tvořit a zkoumat. Tato DIY etika mě provedla jak světem uměleckého řemesla, od modelování po odlévání kovů, tak světem architektury umělé inteligence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Manifest Architekta Paměti</title>
+      <link>http://localhost:1313/manifest/</link>
+      <pubDate>Sun, 11 Aug 2024 14:16:27 +0200</pubDate>
+      <guid>http://localhost:1313/manifest/</guid>
+      <description>&lt;h2 id=&#34;i-proč&#34;&gt;I. Proč&lt;/h2&gt;
+&lt;p&gt;Žijeme v paradoxu. Lidstvo nikdy negenerovalo tolik dat, a přesto je naše paměť křehčí než kdy dřív.
+Vytvořili jsme nekonečné digitální archivy, které existují jen jako nehmotný elektrický šum v serverovnách.
+Jsou to oceány informací bez váhy, bez textury, bez jizev času. Jsou zranitelné, pomíjivé a bez těla.&lt;/p&gt;
+&lt;p&gt;Na druhé straně stojí svět hmoty. Váha kamene, chlad bronzu, vůně dřeva.
+Svět, který paměť nese v sobě – v erozi, v patině, v prasklinách. Svět, který stárne, a tím vypráví příběh.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
