@@ -1,0 +1,9 @@
+baseURL = "https://www.danielg.cz/"
+languageCode = "cs-cz"
+title = "DanielG | Umělecká tvorba"
+theme = "PaperMod"
+
+[params]
+  author = "Daniel G."
+  description = "Osobní portfolio a galerie umělecké tvorby."
+  # ... a další parametry podle vaší potřeby ...
