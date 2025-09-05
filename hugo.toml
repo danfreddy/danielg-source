@@ -4,7 +4,7 @@
 
 baseURL = "https://www.danielg.cz/"
 languageCode = "cs-cz"
-title = "DanielG. | Umělecká tvorba"
+title = "DanielG."
 theme = "PaperMod"
 
 # Povolení generování stránek pro taxonomie (Kategorie, Tagy)

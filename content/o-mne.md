@@ -6,7 +6,7 @@ title = 'O Mně'
 
 ## DanielG.
 
-**"Věnuji se Algoritmické Archeologii. Tvořím hmotné artefakty z digitálních dat (Post-digitální umění)."**
+**"Věnuji se Algoritmické Architektuře. Tvořím hmotné artefakty z digitálních dat (Post-digitální umění)."**
 
 Jsem tvůrce na pomezí dvou světů. Na jedné straně je to svět algoritmů, dat a kódu mé práce AI architekta. Na druhé straně je to svět mé dílny FutLab – svět tisku, žáru laseru a vůně čerstvých barev. Jmenuji se Daniel G. a mou posedlostí je dávat digitálním myšlenkám fyzické tělo.
 

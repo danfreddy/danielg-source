@@ -14,9 +14,9 @@ A právě proto jsem letos, s o to větší silou, znovu otevřel FutLab v histo
 
 Zjistil jsem, že tyto dva světy pro mě nejsou nepřátelé. Jsou to dvě strany téže mince.
 
-## Můj Proces: Algoritmická Archeologie
+## Můj Proces: Algoritmická Architektura
 
-Můj umělecký proces proto nazývám **Algoritmická Archeologie**. Nezačínám s prázdným plátnem. Začínám v terénu, v ulicích Kutné Hory, kde provádím systematický sběr dat. Nefotím turistické pohledy. 
+Můj umělecký proces proto nazývám **Algoritmická Architektura** nebo **datová alchymie**. Nezačínám s prázdným plátnem. Začínám v terénu, v ulicích Kutné Hory, kde provádím systematický sběr dat. Nefotím turistické pohledy. 
 
 Sbírám vizuální a sémantický genom města. Jsou to stovky detailních fotek textur zvětralého pískovce, architektonických forem gotických kleneb a nápisů vytesaných do kamene před staletími. Tato unikátní databáze je mou soukromou paletou, mým lomem na suroviny.
 

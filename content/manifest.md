@@ -32,7 +32,7 @@ Jsem archeolog, který neodkrývá minulost pohřbenou v zemi, ale budoucnost po
 ---
 
 ## III. Co dělám
-Můj proces je **Algoritmická Archeologie**.
+Můj proces je **Algoritmická Architektura**.
 
 Nezačínám s prázdným plátnem, ale s datovým lomem.
 Těžím data z konkrétních míst a jejich příběhů.

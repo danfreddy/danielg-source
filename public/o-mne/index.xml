@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>O Mně on DanielG. | Umělecká tvorba</title>
+    <title>O Mně on DanielG.</title>
     <link>http://localhost:1313/o-mne/</link>
-    <description>Recent content in O Mně on DanielG. | Umělecká tvorba</description>
+    <description>Recent content in O Mně on DanielG.</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>cs-cz</language>
     <lastBuildDate></lastBuildDate>
